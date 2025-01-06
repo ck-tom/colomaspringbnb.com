@@ -1,7 +1,7 @@
 ---
 title: Coloma Spring Suites
 subtitle: "Gold Country - Historic District "
-image: img/coloma-spring-suites-view-from-street-1.jpg
+image: img/slide-1.jpg
 blurb:
   heading: Welcome to Coloma Springs
   text: Coloma Spring Suites has two studio apartments available as monthly
